@@ -28,4 +28,5 @@ const getVisitCount = () => {
 }
 ```
 - Created CosmosDB
+- Created Azure Function App
 
