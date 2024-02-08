@@ -30,4 +30,5 @@ const getVisitCount = () => {
 - Created CosmosDB
 - Created Azure Function App
 - Created bindings to CosmosDB and added host URL to Json file for testing
+- Pushed changes to Github
 
